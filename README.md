@@ -44,7 +44,7 @@ The hyperparameters can be found in the config file in this repository or [here]
 
 ## Acknowledgements
 
-We would like to thank the researchers and staff at the Data Science and Advanced Analytics (DSAA) team, St. Michael’s Hospital, for providing consistent support and guidance throughout this project.
+We would like to thank the researchers and staff at the Data Science and Advanced Analytics (DSAA) department, St. Michael’s Hospital, for providing consistent support and guidance throughout this project.
 We would also like to thank Dr. Marzyeh Ghassemi, Taylor Killan, Nathan Ng and Haoran Zhang for providing us the opportunity to work on this exciting project.
 
 ## Disclaimer
